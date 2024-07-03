@@ -1,0 +1,1 @@
+# serverless-mongo-prisma-typescript
